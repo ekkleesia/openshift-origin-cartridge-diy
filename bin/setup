@@ -1,6 +1,0 @@
-#!/bin/bash -e
-
-
-
-# Create additional directories required by the diy cartridge
-mkdir -p ${OPENSHIFT_DIY_DIR}run
