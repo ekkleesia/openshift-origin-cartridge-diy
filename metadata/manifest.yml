@@ -13,7 +13,7 @@ Compatible-Versions:
 - 0.0.10
 - 0.0.11
 - 0.0.12
-Cartridge-Vendor: redhat
+Cartridge-Vendor: rc
 Vendor: redhat
 Categories:
 - web_framework
