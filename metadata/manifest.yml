@@ -13,13 +13,13 @@ Compatible-Versions:
 - 0.0.10
 - 0.0.11
 - 0.0.12
-Cartridge-Vendor: rc
-Vendor: redhat
+Cartridge-Vendor: ekkleesia
+Vendor: ekkleesia
 Categories:
 - web_framework
 - experimental
 Website: 
-Source-Url: https://github.com/ekkleesia2/openshift-origin-cartridge-diy.git
+Source-Url: https://github.com/ekkleesia/openshift-origin-cartridge-diy.git
 Help-Topics:
   Getting Started: https://www.openshift.com/videos/getting-started-with-diy-applications-on-openshift
 Provides:
